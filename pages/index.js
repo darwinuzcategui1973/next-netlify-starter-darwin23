@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="****hola Darwin!" />
+        <Header title="hola Darwin!" />
         <p className="description">
-          inicio de codigo***** <code>pages/index.js</code>
+          inicio de codigo <code>pages/index.js</code>
         </p>
       </main>
 
