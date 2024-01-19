@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="hola Darwin!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          inicio de codigo <code>pages/index.js</code>
         </p>
       </main>
 
